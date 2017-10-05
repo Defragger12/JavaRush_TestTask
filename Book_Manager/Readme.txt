@@ -1,8 +1,7 @@
 FrontEnd : Spring MVC
-MySQL, Spring, Hibernate, Maven
+MySQL, Spring, Hibernate, Maven, Tomcat 9 (в задании был tomcat 8, надеюсь, это не будет проблемой)
 ///
-
-
+http://localhost:8888/list - список книг
 ///
 readAlready имеет тип varchar(3), со значениями ("Yes", "No"), как аналогия для boolean.
 К Названию в списке книг добавляется (new), если книга не прочитана
