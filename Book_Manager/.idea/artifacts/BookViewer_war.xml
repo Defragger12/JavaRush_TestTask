@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BookViewer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="BookViewer-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BookViewer:war exploded" />
+    </root>
+  </artifact>
+</component>
